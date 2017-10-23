@@ -1,5 +1,5 @@
 'use strict';
-
+//comment
 const Hapi = require('hapi');
 const Joi = require('joi');
 const Blipp = require('blipp');
